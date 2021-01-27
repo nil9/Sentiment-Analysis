@@ -14,3 +14,7 @@ Formally, given a training sample of tweets and labels, where label ‘1’ deno
 Note: The evaluation metric from this practice problem is F1-Score.
 
 Take a look at the pictures below depicting two scenarios of an office space – one is untidy and the other is clean and organized.
+
+## Concepts
+
+Natural language processing, tokenization, segmentation, stemming, lemmatization, part-of-speech tagging.
